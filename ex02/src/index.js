@@ -8,5 +8,5 @@ function myFunction(myParameter) {
 
 console.log(myFunction(true));
 console.log(myFunction(false));
-// Only change code aboev this line
+// Only change code above this line
 module.exports = myFunction;
