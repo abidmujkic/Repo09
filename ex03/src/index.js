@@ -12,6 +12,6 @@ console.log(myEqualFunction(23));
 console.log(myEqualFunction("23"));
 console.log(myEqualFunction('23'));
 console.log(myEqualFunction("text"));
-// Only change code aboev this line
+// Only change code above this line
 
 module.exports = myEqualFunction;
